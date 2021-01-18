@@ -1,0 +1,10 @@
+.head{
+    background-color: aqua;
+    color: brown;
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+}
+body{
+    background-color: burlywood;
+}
